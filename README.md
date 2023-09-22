@@ -11,7 +11,7 @@ OpenCV
 Albumentations  
 Matplotlib  
 NumPy  
-An NVIDIA GPU is strongly recommended for model training.
+An NVIDIA T4 GPU is strongly recommended for model training.
 
 # Installation
 1.  Clone the repository on Google Colab:
