@@ -14,7 +14,7 @@ NumPy
 An NVIDIA GPU is strongly recommended for model training.
 
 # installation
-Clone the repository:
+1.  Clone the repository:
 <!---->
 git clone https://github.com/Qurat5/Anomaly-detection-in-Traffic-Signs-Recognition.git
 
@@ -23,21 +23,10 @@ git clone https://github.com/Qurat5/Anomaly-detection-in-Traffic-Signs-Recogniti
 pip install -r requirements.txt
 
 3.  Download the dataset  and extract it into the data folder. The folder structure should be:
-
-test  https://drive.google.com/drive/folders/1NIX9gWF_T6duH4f0xYjiphIvnqkXqJxO?usp=drive_link
-train https://drive.google.com/drive/folders/1blJaPHF3zjgiBkhDjtPR-Coj9OxVxgWG?usp=drive_link
-valid https://drive.google.com/drive/folders/1jNcXakTsED4ld3xdHWEXubnr6Av1aogC?usp=drive_link
 <!---->
+test  https://drive.google.com/drive/folders/1NIX9gWF_T6duH4f0xYjiphIvnqkXqJxO?usp=drive_link  
+train https://drive.google.com/drive/folders/1blJaPHF3zjgiBkhDjtPR-Coj9OxVxgWG?usp=drive_link  
+valid https://drive.google.com/drive/folders/1jNcXakTsED4ld3xdHWEXubnr6Av1aogC?usp=drive_link  
 
-4.  Train the YOLOv8 model:
-<!---->
-python train_yolov8.py
 
-
-5.  Train the autoencoder model:
-<!---->
-python train_autoencoder.py
-
-6.   Evaluate the models:
-<!---->
-python evaluate.py
+4. Upload 
