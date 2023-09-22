@@ -28,5 +28,5 @@ test  https://drive.google.com/drive/folders/1NIX9gWF_T6duH4f0xYjiphIvnqkXqJxO?u
 train https://drive.google.com/drive/folders/1blJaPHF3zjgiBkhDjtPR-Coj9OxVxgWG?usp=drive_link  
 valid https://drive.google.com/drive/folders/1jNcXakTsED4ld3xdHWEXubnr6Av1aogC?usp=drive_link  
 
+4. Run cell one by one on google colab
 
-4. Upload 
