@@ -1,6 +1,6 @@
 # Anomaly-detection-in-Traffic-Signs-Recognition
 
-Installation Guide
+ Installation Guide
 This guide covers setting up and installing the code for anomaly detection in traffic signs recognition.
 
 Requirements
