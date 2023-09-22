@@ -15,12 +15,10 @@ An NVIDIA GPU is strongly recommended for model training.
 
 # installation
 1.  Clone the repository on Google Colab:
-<!---->
-git clone https://github.com/Qurat5/Anomaly-detection-in-Traffic-Signs-Recognition.git
+<!----> git clone https://github.com/Qurat5/Anomaly-detection-in-Traffic-Signs-Recognition.git
 
 2.  Install the required packages:
-<!---->
-pip install -r requirements.txt
+<!----> pip install -r requirements.txt
 
 3.  Download the dataset  and extract it into the data folder. The folder structure should be:
 <!---->
