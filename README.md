@@ -6,11 +6,11 @@ This guide covers setting up and installing the code for anomaly detection in tr
 # Requirements
 The code has been developed and tested on Python 3.7. The following packages are required:
 
-PyTorch >= 1.7
-OpenCV
-Albumentations
-Matplotlib
-NumPy
+PyTorch >= 1.7  
+OpenCV  
+Albumentations  
+Matplotlib  
+NumPy  
 An NVIDIA GPU is strongly recommended for model training.
 
 # installation
