@@ -13,7 +13,7 @@ Matplotlib
 NumPy
 An NVIDIA GPU is strongly recommended for model training.
 
-nstallation
+istallation
 Clone the repository:
 <!---->
 git clone https://github.com/Qurat5/Anomaly-detection-in-Traffic-Signs-Recognition.git
